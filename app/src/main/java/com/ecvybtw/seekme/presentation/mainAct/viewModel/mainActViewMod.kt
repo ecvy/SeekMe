@@ -1,4 +1,4 @@
-package com.ecvybtw.seekme.presentation.viewModel
+package com.ecvybtw.seekme.presentation.mainAct.viewModel
 
 import androidx.lifecycle.ViewModel
 import com.ecvybtw.seekme.domain.useCase.repository.dataStoreRep.store.onBoarding.IsOnBoardingPassedGetUseCase

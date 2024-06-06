@@ -1,3 +1,13 @@
 <resources>
-  <string name="app_name">SeekMe</string>
+    <string name="app_name">SeekMe</string>
+    <string name="Welcome">Welcome! 👋🏻</string>
+    <string name="WelcomeTxt">This app will provide access to your lost phone for data rescue. Also with its deletion, geolocation tracking, sms access and even more. Only important things.</string>
+    <string name="PINEnter">Please enter protection PIN 🔢</string>
+    <string name="PINEnter2">It will be required to access your data externally</string>
+    <string name="SMSEnter">First, we need access to SMS 💬</string>
+    <string name="SMSEnter2">It will make an external interaction possible</string>
+
+
+    <string name="GetS">Get Started</string>
+    <string name="GrantAccessSMS">Grant access to SMS</string>
 </resources>
